@@ -1,0 +1,2 @@
+# Bamako_accident
+Cette carte présente les points accidentogènes du district de Bamako
